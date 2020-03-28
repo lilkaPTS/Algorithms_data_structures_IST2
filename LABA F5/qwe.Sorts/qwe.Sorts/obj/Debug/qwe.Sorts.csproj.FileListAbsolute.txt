@@ -1,0 +1,7 @@
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\bin\Debug\qwe.Sorts.exe.config
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\bin\Debug\qwe.Sorts.exe
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\bin\Debug\qwe.Sorts.pdb
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\obj\Debug\qwe.Sorts.csprojAssemblyReference.cache
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\obj\Debug\qwe.Sorts.csproj.CoreCompileInputs.cache
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\obj\Debug\qwe.Sorts.exe
+C:\Users\liluka\source\repos\qwe.Sorts\qwe.Sorts\obj\Debug\qwe.Sorts.pdb
