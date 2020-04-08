@@ -1,0 +1,20 @@
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\bin\Debug\qwe.Crossword.exe.config
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\bin\Debug\qwe.Crossword.exe
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\bin\Debug\qwe.Crossword.pdb
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.csprojAssemblyReference.cache
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.Form1.resources
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.Properties.Resources.resources
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.csproj.GenerateResource.cache
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.csproj.CoreCompileInputs.cache
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.exe
+C:\Users\liluka\source\repos\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.pdb
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.csprojAssemblyReference.cache
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.Form1.resources
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.Properties.Resources.resources
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.csproj.GenerateResource.cache
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.csproj.CoreCompileInputs.cache
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.exe
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\obj\Debug\qwe.Crossword.pdb
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\bin\Debug\qwe.Crossword.exe.config
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\bin\Debug\qwe.Crossword.exe
+C:\Users\liluka\Desktop\labi po TP\Algorithms_data_structures_IST2\LABA 4\qwe.Crossword\qwe.Crossword\bin\Debug\qwe.Crossword.pdb
