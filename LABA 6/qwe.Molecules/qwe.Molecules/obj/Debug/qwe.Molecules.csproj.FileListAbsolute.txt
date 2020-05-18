@@ -1,0 +1,14 @@
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\bin\Debug\qwe.Molecules.exe.config
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\bin\Debug\qwe.Molecules.exe
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\bin\Debug\qwe.Molecules.pdb
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.csprojAssemblyReference.cache
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.Form1.resources
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.Properties.Resources.resources
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.csproj.GenerateResource.cache
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.csproj.CoreCompileInputs.cache
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.exe
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.pdb
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.Circles.resources
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.CustomButton.resources
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.FormOfSetText.resources
+C:\Users\liluka\source\repos\qwe.Molecules\qwe.Molecules\obj\Debug\qwe.Molecules.FormOfSetRadius.resources
